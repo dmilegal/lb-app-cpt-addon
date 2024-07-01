@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       App CPT Addon
  * Plugin URI:        https://https://github.com/dmilegal
- * Description:       Added app cpt for casino/bookmakers.
+ * Description:       Added application cpt for casino/bookmakers.
  * Version:           1.0.0
  * Author:            Dmitriy Krapivko
  * Author URI:        https://https://github.com/dmilegal?tab=repositories/
